@@ -9,7 +9,7 @@
     "path": "^0.12.7"
   },
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "npm i nodemon & nodemon index.js"
   }
 
 }
